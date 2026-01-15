@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirduh-panwar&show_icons=true&locale=en" alt="anirduh-panwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirduh-panwar&" alt="anirduh-panwar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirduh-panwar&" alt="anirudh-panwar" /></p>
